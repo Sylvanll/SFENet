@@ -7,7 +7,7 @@
 
 Welcome to the official repository of **SFENet**, our novel deep learning framework engineered for high-precision crop health monitoring. Addressing the critical need for effective nutrient deficiency detection in economic crops, SFENet introduces an innovative approach that synergistically integrates **spatial-frequency domain features** through a powerful **ensemble of deep learning models**.
 
-## ✨ Overview: Synergizing Spatial and Spectral Intelligence for Precision Agriculture
+## ✨ Overview: Synergizing Spatial and Frequency-domain Intelligence for Precision Agriculture
 
 In the advancement of precision agriculture, monitoring the health of economic crops is paramount. Detecting nutrient deficiencies in leaves poses significant challenges, particularly in discerning subtle visual cues and managing data variability. To address this, we propose **SFENet**, a novel method that meticulously integrates spatial-frequency domain features within an ensemble deep learning framework.
 
