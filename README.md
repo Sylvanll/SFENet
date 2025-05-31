@@ -38,7 +38,7 @@ Below is a **Graphic Abstract** of paper:
 
 Below is a **Example** :
 
-![lack  of mei](./figures/lack of mei.jpg)
+![lack of mei](./figures/lack_of_mei.jpg)
 
 ## 🔍 Attention Visualization: How SFENet Focuses on Leaf Symptoms
 
