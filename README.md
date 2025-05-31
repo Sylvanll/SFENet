@@ -1,7 +1,7 @@
 # 🌟 SFENet: A Frequency-Spatial Feature Enhanced Ensemble Network for Plant Nutrient Deficiency Recognition 🌿🔬
 
 [![Project Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/yourusername/crop-health-monitoring)
-[![Python Version](https://img.shields.io/badge/Python-%E2%89%A73.7-blue.svg)](https://www.python.org/)
+[![Python Version](https://img.shields.io/badge/Python-%3E%3D3.7-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-lightgrey.svg)](https://arxiv.org/)
 
@@ -27,28 +27,26 @@ To optimize the ensemble's predictive power, we employ a **dynamic weight alloca
 - **Robust Generalization**: The experimental results on diverse datasets confirm the method’s robustness and its potential for broad application in crop health monitoring, advancing the field of precision agriculture.
 
 ---
+
 ## 🖼️ Visualizing Our Approach
 
-To better understand our SFENet architecture and the results, we've included some illustrative figures.
+Below is a visual overview of the SFENet architecture:
 
-### Graphic Abstract
+![Graphic Abstract](./figures/graphic_abstract.tif)
 
-You can embed an image directly in your Markdown like this:
-
-```markdown
-![Graphic Abstract](graphic_abstract.tif)
+---
 
 ## 🛠️ Installation: Get SFENet Ready
 
 ### Prerequisites
 
-- Python $\ge$ 3.7
-- PyTorch $\ge$ 1.10
-- torchvision $\ge$ 0.11
+- Python >= 3.7
+- PyTorch >= 1.10
+- torchvision >= 0.11
 - Other dependencies (install via `requirements.txt`)
 
 ### Clone the Repository
 
 ```bash
-git clone [https://github.com/yourusername/crop-health-monitoring.git](https://github.com/yourusername/crop-health-monitoring.git)
+git clone https://github.com/yourusername/crop-health-monitoring.git
 cd crop-health-monitoring
