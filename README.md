@@ -54,9 +54,9 @@ To further illustrate the model’s ability to capture key symptomatic regions, 
 
 ### Prerequisites
 
-- Python >= 3.7
-- PyTorch >= 1.10
-- torchvision >= 0.11
+- Python == 3.9
+- PyTorch == 2.5.1
+- torchvision == 0.20.1
 - Other dependencies (install via `requirements.txt`)
 
 ### Clone the Repository
