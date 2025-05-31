@@ -1,7 +1,7 @@
 # 🌟 SFENet: A Frequency-Spatial Feature Enhanced Ensemble Network for Plant Nutrient Deficiency Recognition 🌿🔬
 
 [![Project Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/yourusername/crop-health-monitoring)
-[![Python Version](https://img.shields.io/badge/Python-%3E%3D3.7-blue.svg)](https://www.python.org/)
+[![Python Version](https://img.shields.io/badge/Python-%3E%3D3.9-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-lightgrey.svg)](https://arxiv.org/)
 
