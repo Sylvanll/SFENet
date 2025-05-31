@@ -27,6 +27,16 @@ To optimize the ensemble's predictive power, we employ a **dynamic weight alloca
 - **Robust Generalization**: The experimental results on diverse datasets confirm the method’s robustness and its potential for broad application in crop health monitoring, advancing the field of precision agriculture.
 
 ---
+## 🖼️ Visualizing Our Approach
+
+To better understand our SFENet architecture and the results, we've included some illustrative figures.
+
+### Graphic Abstract
+
+You can embed an image directly in your Markdown like this:
+
+```markdown
+![SFENet Architecture](graphic_abstract.tif)
 
 ## 🛠️ Installation: Get SFENet Ready
 
