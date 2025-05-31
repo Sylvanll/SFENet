@@ -32,7 +32,7 @@ To optimize the ensemble's predictive power, we employ a **dynamic weight alloca
 
 Below is a visual overview of the SFENet architecture:
 
-![Graphic Abstract](./figures/graphic_abstract.tif)
+![Graphic Abstract](graphic_abstract.tif)
 
 ---
 
