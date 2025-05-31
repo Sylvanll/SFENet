@@ -62,5 +62,5 @@ To further illustrate the model’s ability to capture key symptomatic regions, 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/crop-health-monitoring.git
-cd crop-health-monitoring
+git clone https://github.com/Sylvanll/SFENet.git
+cd SFENet
