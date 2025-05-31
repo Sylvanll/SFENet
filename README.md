@@ -36,7 +36,7 @@ To better understand our SFENet architecture and the results, we've included som
 You can embed an image directly in your Markdown like this:
 
 ```markdown
-![SFENet Architecture](graphic_abstract.tif)
+![Graphic Abstract](graphic_abstract.tif)
 
 ## 🛠️ Installation: Get SFENet Ready
 
